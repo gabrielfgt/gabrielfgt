@@ -2,7 +2,7 @@
 <p>🔭 I’m currently working on Kron Digital, as Support and Developer (.net, swift and sql)</p>
 <p>🌱 I'm always looking for new challenges that will make me grow professionally and personally</p>
 <p>📚 I’m currently studie Swoftare Development at FIAP (University from Sao Paulo city)</p>
-
+<p>🤩 I have been working with software development effectively since 2022, but I have experience with small developments in VBA and SQL since 2015. I have worked in several areas, from logistics to the financial market, always contributing to the technology sector.</p>
 
 ### Contact me
 <a href = "gabrielfgonsalves@icloud.com"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
