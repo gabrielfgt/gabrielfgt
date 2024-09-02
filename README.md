@@ -1,7 +1,8 @@
 {
   "author": "Gabriel Francisco",
-  "description": "mobile developer and swift lover🪽",
+  "description": "mobile developer and swift lover🪽"
 }
+
 
 ### Skills
 <div>
