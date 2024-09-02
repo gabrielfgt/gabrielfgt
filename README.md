@@ -1,7 +1,10 @@
+```json
 {
   "author": "Gabriel Francisco",
   "description": "mobile developer and swift lover🪽"
 }
+```
+
 
 
 ### Skills
