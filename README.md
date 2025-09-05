@@ -4,28 +4,20 @@
 - Estruturação de pipelines de **RAG, ML, governança e observabilidade de IA**.  
 - Liderança técnica de times multidiciplinares.
 - Implementação de práticas de **DevOps, CI/CD, FinOps e PromptOps**.  
-
 ---
-
 ## Stack Tecnológica
 - **Linguagens**: Python, JavaScript/TypeScript, Java, Swift, C#.   
 - **Frameworks**: FastAPI, .NET Core, React, CrewAI, LangChain, LangGraph, LangFlow.  
 - **Banco de Dados**: SQL Server, Oracle, MongoDB, Firebase.  
 - **Cloud & DevOps**: Azure, Docker, GitHub Actions, GCP, AWS.
 - **Metodologias**: ITIL, Scrum, DevOps, FinOps, PromptOps.  
-
 ---
-
 ## Formação Acadêmica
 - **Pós-graduação**: Machine Learning Engineering – FIAP.  
 - **Formação**: Análise e Desenvolvimento de Sistemas - FIAP.  
-- **Especializações em andamento**: Arquitetura de IA, Governança e Segurança de IA, Cloud AI Engineering (Azure, AWS, GCP).  
-
 ---
-
 ## Publicações & Conteúdo
 - Autor da newsletter **“Café com IA”**, com foco em agentes de IA, arquitetura e aplicabilidade no contexto corporativo.  
-- Produção de conteúdos técnicos em **LinkedIn** sobre **IA, inovação e arquitetura de soluções**.
 - Autor do Livro: Analista de Sistemas: Um guia e Manual de Boas práticas 2025
 - Criador da metodologia STAR para análise de sistemas.
 
