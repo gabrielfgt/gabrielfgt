@@ -1,5 +1,5 @@
 <!-- Cabeçalho animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gabriel%20[SOBRENOME]&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20AI%20Engineer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gabriel%Francisco&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20AI%20Engineer&descAlignY=58&descSize=18"/>
 
 <!-- Texto digitando -->
 <p align="center">
@@ -95,31 +95,3 @@ class Gabriel:
   <img src="https://img.shields.io/badge/LangFlow-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
 </p>
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
-  </picture>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
