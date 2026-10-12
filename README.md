@@ -1,5 +1,5 @@
 <!-- Cabeçalho animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gabriel%20Francisco&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20AI%20Engineer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gabriel%20Francisco&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Team%20Lead%20GenAI&descAlignY=58&descSize=18"/>
 
 <!-- Texto digitando -->
 <p align="center">
